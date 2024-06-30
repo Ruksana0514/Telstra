@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1719730945,,"wq"
+|2,0,1719736499,,"wq"
 :w
 |2,0,1719730082,,"w"
 :.!
@@ -34,32 +34,44 @@ $
 # Registers:
 
 # File marks:
-'0  6  0  ~/hello.sh
-|4,48,6,0,1719730945,"~/hello.sh"
+'0  12  0  ~/Prod.java
+|4,48,12,0,1719736499,"~/Prod.java"
 '1  6  0  ~/hello.sh
-|4,49,6,0,1719730861,"~/hello.sh"
-'2  7  4  /etc/cron.allow
-|4,50,7,4,1719730797,"/etc/cron.allow"
-'3  10  26  /etc/cron.allow
-|4,51,10,26,1719730477,"/etc/cron.allow"
-'4  8  26  /etc/cron.allow
-|4,52,8,26,1719730477,"/etc/cron.allow"
-'5  1  0  ~/cron.allow
-|4,53,1,0,1719730374,"~/cron.allow"
-'6  3  7  ~/hello.sh
-|4,54,3,7,1719730273,"~/hello.sh"
+|4,49,6,0,1719730945,"~/hello.sh"
+'2  6  0  ~/hello.sh
+|4,50,6,0,1719730861,"~/hello.sh"
+'3  7  4  /etc/cron.allow
+|4,51,7,4,1719730797,"/etc/cron.allow"
+'4  10  26  /etc/cron.allow
+|4,52,10,26,1719730477,"/etc/cron.allow"
+'5  8  26  /etc/cron.allow
+|4,53,8,26,1719730477,"/etc/cron.allow"
+'6  1  0  ~/cron.allow
+|4,54,1,0,1719730374,"~/cron.allow"
 '7  3  7  ~/hello.sh
 |4,55,3,7,1719730273,"~/hello.sh"
-'8  5  0  ~/hello.sh
-|4,56,5,0,1719730273,"~/hello.sh"
+'8  3  7  ~/hello.sh
+|4,56,3,7,1719730273,"~/hello.sh"
 '9  5  0  ~/hello.sh
 |4,57,5,0,1719730273,"~/hello.sh"
 
 # Jumplist (newest first):
+-'  12  0  ~/Prod.java
+|4,39,12,0,1719736499,"~/Prod.java"
+-'  1  0  ~/Prod.java
+|4,39,1,0,1719736470,"~/Prod.java"
+-'  6  0  ~/hello.sh
+|4,39,6,0,1719730945,"~/hello.sh"
 -'  6  0  ~/hello.sh
 |4,39,6,0,1719730945,"~/hello.sh"
 -'  6  0  ~/hello.sh
 |4,39,6,0,1719730861,"~/hello.sh"
+-'  6  0  ~/hello.sh
+|4,39,6,0,1719730861,"~/hello.sh"
+-'  3  7  ~/hello.sh
+|4,39,3,7,1719730838,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730838,"~/hello.sh"
 -'  3  7  ~/hello.sh
 |4,39,3,7,1719730838,"~/hello.sh"
 -'  5  0  ~/hello.sh
@@ -72,6 +84,22 @@ $
 |4,39,7,4,1719730797,"/etc/cron.allow"
 -'  7  4  /etc/cron.allow
 |4,39,7,4,1719730797,"/etc/cron.allow"
+-'  7  4  /etc/cron.allow
+|4,39,7,4,1719730797,"/etc/cron.allow"
+-'  7  4  /etc/cron.allow
+|4,39,7,4,1719730797,"/etc/cron.allow"
+-'  7  4  /etc/cron.allow
+|4,39,7,4,1719730797,"/etc/cron.allow"
+-'  7  4  /etc/cron.allow
+|4,39,7,4,1719730797,"/etc/cron.allow"
+-'  10  26  /etc/cron.allow
+|4,39,10,26,1719730757,"/etc/cron.allow"
+-'  10  26  /etc/cron.allow
+|4,39,10,26,1719730757,"/etc/cron.allow"
+-'  10  26  /etc/cron.allow
+|4,39,10,26,1719730757,"/etc/cron.allow"
+-'  10  26  /etc/cron.allow
+|4,39,10,26,1719730757,"/etc/cron.allow"
 -'  10  26  /etc/cron.allow
 |4,39,10,26,1719730757,"/etc/cron.allow"
 -'  10  26  /etc/cron.allow
@@ -88,6 +116,30 @@ $
 |4,39,8,26,1719730477,"/etc/cron.allow"
 -'  8  26  /etc/cron.allow
 |4,39,8,26,1719730477,"/etc/cron.allow"
+-'  8  26  /etc/cron.allow
+|4,39,8,26,1719730477,"/etc/cron.allow"
+-'  8  26  /etc/cron.allow
+|4,39,8,26,1719730477,"/etc/cron.allow"
+-'  8  26  /etc/cron.allow
+|4,39,8,26,1719730477,"/etc/cron.allow"
+-'  8  26  /etc/cron.allow
+|4,39,8,26,1719730477,"/etc/cron.allow"
+-'  11  0  /etc/cron.allow
+|4,39,11,0,1719730450,"/etc/cron.allow"
+-'  9  0  /etc/cron.allow
+|4,39,9,0,1719730450,"/etc/cron.allow"
+-'  11  0  /etc/cron.allow
+|4,39,11,0,1719730450,"/etc/cron.allow"
+-'  9  0  /etc/cron.allow
+|4,39,9,0,1719730450,"/etc/cron.allow"
+-'  11  0  /etc/cron.allow
+|4,39,11,0,1719730450,"/etc/cron.allow"
+-'  9  0  /etc/cron.allow
+|4,39,9,0,1719730450,"/etc/cron.allow"
+-'  11  0  /etc/cron.allow
+|4,39,11,0,1719730450,"/etc/cron.allow"
+-'  9  0  /etc/cron.allow
+|4,39,9,0,1719730450,"/etc/cron.allow"
 -'  11  0  /etc/cron.allow
 |4,39,11,0,1719730450,"/etc/cron.allow"
 -'  9  0  /etc/cron.allow
@@ -136,6 +188,54 @@ $
 |4,39,1,0,1719730374,"~/cron.allow"
 -'  1  0  ~/cron.allow
 |4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  1  0  ~/cron.allow
+|4,39,1,0,1719730374,"~/cron.allow"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
+-'  5  0  ~/hello.sh
+|4,39,5,0,1719730273,"~/hello.sh"
 -'  5  0  ~/hello.sh
 |4,39,5,0,1719730273,"~/hello.sh"
 -'  5  0  ~/hello.sh
@@ -156,108 +256,15 @@ $
 |4,39,1,0,1719730198,"~/hello.sh"
 -'  1  0  ~/hello.sh
 |4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  1  0  ~/hello.sh
-|4,39,1,0,1719730198,"~/hello.sh"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  9  0  /etc/cron.allow
-|4,39,9,0,1719730167,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  1  0  /etc/cron.allow
-|4,39,1,0,1719729970,"/etc/cron.allow"
--'  8  0  /
-|4,39,8,0,1719729912,"/"
--'  8  0  /
-|4,39,8,0,1719729912,"/"
 
 # History of marks within files (newest to oldest):
+
+> ~/Prod.java
+	*	1719736497	0
+	"	12	0
+	^	12	1
+	.	12	1
+	+	12	1
 
 > ~/hello.sh
 	*	1719730942	0
